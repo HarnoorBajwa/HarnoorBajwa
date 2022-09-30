@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Harnoor, I am a sophmore student pursuing Computer Science 
+My name is Harnoor, I am a sophomore student pursuing Computer Science 
 
 - 🔭 I’m currently working on Java and React project
 - 🌱 I’m currently learning JavasCript, React , Python
