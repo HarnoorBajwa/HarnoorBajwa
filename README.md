@@ -6,6 +6,5 @@ My name is Harnoor, I am a sophomore student pursuing Computer Science
 - 👯 I’m looking to collaborate on open source java projects
 - 🤔 I’m looking for co-op/internship opportuities for summer 2023
 - 📫 How to reach me: harnoorbajwa@dal.ca
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love playing and watching football/soccer
 
