@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Harnoor, I am a sophomore student pursuing Computer Science 
+My name is Harnoor, I am a Computer Science student at Dalhousie University
 
 - 🔭 I’m currently working on Java and React project
 - 🌱 I’m currently learning JavaScript, React , Python
